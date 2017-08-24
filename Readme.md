@@ -1,7 +1,7 @@
 # Личный проект «YetiCave» 
 
 * Студент: [Vakhtang Tivadze](https://up.htmlacademy.ru/php/2/user/116214).
-* Наставник: `Неизвестно`.
+* Наставник: `Павел Кузнецов`.
 
 ---
 
